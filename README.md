@@ -1,5 +1,6 @@
-### Olá! Sou o Marlon Oliveira 👋
-- Atualmente trabalho como dev front-end
+### Olá, eu sou o Marlon Oliveira 👋
+
+---
 
 ![Marlon GitHub stats](https://github-readme-stats.vercel.app/api?username=marlon-so&show_icons=true&theme=onedark)
 
